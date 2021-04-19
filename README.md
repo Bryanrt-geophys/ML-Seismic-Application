@@ -9,5 +9,5 @@ The New Mexico Bureau of Geology has interest in converting thier approach to ca
 
 [FAST progress documentation](docs/FAST.md)
 
-# VibRation
+# sac2EQTransformR
 [VibRation](https://gitlab.com/Bryanrt-geophys/vibration) is a package I am creating in R to work in tandem with EQTransformer, mseed2sac, and the by-hand picking method with .dat file outputs and is currently undergoing the process of be published under CRAN. This will provide the data sets necessary to retrain the EQTransformer algorithms used in this project.
